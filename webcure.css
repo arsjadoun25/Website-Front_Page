@@ -1,0 +1,427 @@
+body{
+  margin: 0px;
+}
+  header {
+    background-color: #0f48b3;
+    margin-bottom: auto;
+  }
+  
+  .top-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .left-section,
+  .right-section {
+    display: flex;
+    align-items: center ;
+    margin-right: 100px;
+  }
+
+  .info {
+    display: grid;
+    grid-template-columns: 1fr 1fr; /* Two equal columns */
+    margin-left: 100px;
+    color: aliceblue;
+  }
+  #email{
+    margin-right: 6px; /* Adjust the spacing between the elements */
+  }
+
+  .social-links a {
+    margin-right: 30px;
+    text-decoration: none;
+    color: #fdfcfc;
+  }
+  
+  #location {
+    margin-left: 10px;
+    background-color: #0f48b3;
+    color: #fff;
+    border-color: #0f48b3;
+  }
+  
+  .bottom-section {
+    background-color: #fdfcfc;
+    display: flex;
+    justify-content: flex-end; 
+  }
+
+  .bs00{
+    margin-right: 15%;
+    margin-top: -20px;
+    margin-bottom: -20px;
+    display: flex;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+
+  .bs00 h1 {
+    display: block;
+    font-size: 2.3em;
+    margin-block-start: 1.3em;
+    margin-block-end: -0.33em;
+    margin-inline-start: -5px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+.logo0{
+  width: 90px;
+  /* margin-left: -100px; */
+}
+  
+  .main-navigation {
+    margin-top: 40px;
+    margin-right: 10px;
+  }
+  
+  .main-navigation a {
+    display: inline;
+    text-decoration: none;
+    color: #222121;
+    margin-right: 97px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+
+  #Contact {
+    text-decoration: none;
+    color: #faf8f8;
+    margin-right: 27px;
+    margin-top: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 20px solid #0f48b3;
+    background-color: #0f48b3;
+    border-radius: 10px;
+  }
+  
+  .main-navigation a:hover {
+    text-decoration: underline;
+  }
+
+  .content {
+    margin-top: 30px;
+    text-align: center;
+}
+
+.banner {
+    background-image: url("Img/Free Photo _ Top view cleaning sponge with copy space.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.banner-text {
+    text-align: left;
+    color: #020202;
+    margin-left: -500px;
+}
+
+.banner-text h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+.banner-text p {
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+
+.discover-button {
+    padding: 12px 30px;
+    background-color: #333;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 4px;
+    font-size: 18px;
+}
+
+.discover-button:hover {
+    background-color: #555;
+}
+
+
+.about-us {
+    display: flex;
+    align-items: center;
+    margin-top: 50px;
+    margin-right: 200px;
+}
+
+.about-us .about-image {
+    flex: 1;
+    padding-right: 20px;
+}
+
+.about-us .about-image img {
+    max-width: 90%;
+    height: auto;
+    margin-left: 245px;
+}
+
+.about-us .about-content {
+    flex: 1;
+    line-height: 32px;
+}
+
+.about-content h4{
+  color: #02448b;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.about-us #vertical{
+  transform: rotateZ(270deg);
+  margin-left: 70px;
+  color: #02448b;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: large;
+}
+
+.about-content h1{
+  color: #07223f;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.about-content #p1{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.about-content p{
+  font-family: auto;
+}
+
+.about-us h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.about-us p {
+    margin-bottom: 20px;
+}
+
+.about-us .about-more-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.about-us .about-more-button:hover {
+    background-color: #0056b3;
+}
+
+  .professional-people {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.section-heading {
+  color: #02448b;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin-top: 100px;
+}
+
+.team-heading {
+  color: #07223f;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 40px;
+  font-weight: bold;
+  margin-top: -13px;
+  margin-bottom: 30px;
+}
+
+.team-members {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.team-member {
+    margin: 0px 80px;
+}
+
+.team-member img {
+    max-width:300px;
+    height :300px;
+    height: 350px;
+}
+
+
+
+
+
+  /* Dot Slider */
+
+  .slider-container {
+    width: 1300px;
+    position: relative;
+    overflow: hidden;
+}
+
+/* Style for the slide container to display slides horizontally */
+.slide-container {
+    display: flex;
+    transition: transform 0.8s ease-in-out;
+}
+
+/* Style for individual slides */
+.slide {
+  width: 300px; /* Adjust the width of each slide as needed */
+  flex-shrink: 0;
+  margin-left: 50px;
+  display: contents;
+}
+
+/* Style for the images within a slide */
+.slide img {
+  width: 400px; /* Ensure images fill the slide container */
+  
+}
+
+/* Style for the dots container */
+.dot-container {
+    text-align: center;
+    margin-top: 10px;
+}
+
+/* Style for individual dots */
+.dot {
+    display: inline-block;
+    width: 11px;
+    height: 11px;
+    border: 1px solid;
+    border-color: #0056b3;
+    background-color: #fdfdfd;
+    border-radius: 10px;
+    margin: 15px 5px;
+    cursor: pointer;
+}
+
+/* Active dot style */
+.active {
+    background-color: #0056b3;
+}
+
+
+
+
+
+footer {
+    color: #fff;
+    margin-bottom: -50px;
+    background-image: url("Img/Premium Photo _ High angle view of spray bottle, gloves and sponge on blue background.jpg"); 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #092a4d;
+    background-blend-mode: overlay;
+    /* position: relative; */
+  }
+  
+  .footer-container {
+    max-width: 960px;
+    display: flex;
+    margin-left: 190px;
+    height: 500px;
+  }
+  
+  .footer-section {
+    margin-top: 70px;
+    flex: 1 1 300px;
+    margin-right: 180px;
+    margin-left: -80px;
+    text-align: left;
+  }
+
+  .fs00{
+    display: flex;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+
+  .fs00 h1 {
+    display: block;
+    font-size: 2.8em;
+    margin-block-start: 1.4em;
+    margin-block-end: -0.33em;
+    margin-inline-start: -10px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+  .logo {
+    width: 120px;
+    margin-right: 10px; 
+  } 
+
+
+  .footer-section #fs{
+    margin: 16px 0px;
+    display: flex;
+    margin-block-start: 0em;
+    margin-block-end: 1em;
+    margin-inline-start: 10px;
+    margin-inline-end: -65px;
+    line-height: 25px;
+    letter-spacing: 2px;
+  }
+
+  .footer-section #face{
+    margin-left: 10px;
+  }
+
+  .footer-section2 {
+    margin-top: 70px;
+    flex: 1 1 300px;
+    margin-right: 40px;
+    text-align: left;
+  }
+  
+  .footer-section3 {
+    margin-top: 70px;
+    flex: 1 1 300px;
+    margin-right: 40px;
+    text-align: left;
+  }
+
+  .footer-section4 {
+    margin-top: 70px;
+    flex: 1 1 300px;
+    margin-right: -100px;
+    text-align: left;
+  }
+
+  .foot-heading{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 26px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  ul li {
+    margin-bottom: 40px;
+  }
+  
+  ul li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .bottom-footer {
+    /* background-color: #313fb8; */
+    padding: 10px 0;
+    text-align: center;
+  }
