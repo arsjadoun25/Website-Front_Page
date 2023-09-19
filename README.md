@@ -47,4 +47,4 @@ To customize the website:
 - Website design and code created by [JORDAN](https://github.com/arsjadoun25).
 
 ## Live Demo 
-Visit our [**live demo**](https://findissues.vercel.app) to experience FindIssues in action and make searching of unassigned issues more easier.
+Visit our [**live demo**](https://arsjadoun25.github.io/Website-Front_Page/) to experience front page in action.
