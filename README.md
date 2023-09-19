@@ -1,4 +1,4 @@
-![FindIssues_banner](https://github.com/arsjadoun25/Website-Front_Page/main/Img/t8CloRoS1dYn42NDT9jky.png)
+![FindIssues_banner](https://github.com/arsjadoun25/Website-Front_Page/Img/t8CloRoS1dYn42NDT9jky.png)
 
 # Welcome to Washup ✨👋
 
