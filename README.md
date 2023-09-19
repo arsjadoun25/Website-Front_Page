@@ -1,5 +1,3 @@
-![FindIssues_banner](https://github.com/arsjadoun25/Website-Front_Page/Img/t8CloRoS1dYn42NDT9jky.png)
-
 # Welcome to Washup ✨👋
 
 **Preview** This repository contains the code for the Washup website(just for practice), a simple webpage designed using HTML, CSS, and JavaScript. The website features a header, banner, about us, professional people, and footer sections.
