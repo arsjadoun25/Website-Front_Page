@@ -35,8 +35,6 @@ This project utilizes the following technologies:
 
 ## Customization 👀 
 
-We welcome contributions from the community to make FindIssues even better. If you're interested in contributing, please follow our [Contributing Guidelines](CONTRIBUTING.md) to get started.
-
 To customize the website:
 - Modify the HTML content in `index.html` to update the website's structure and text.
 - Adjust styles and layout in `webcure.css`.
